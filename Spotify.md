@@ -34,6 +34,8 @@
 
 * Rihanna
 
+* Arctic Monkeys
+
 
 **Most Streamed Tracks**
 
@@ -50,4 +52,4 @@
 
 * What kind of music people enjoy (danceable, energetic, etc.)
 
-Arctic Monkeys
+
