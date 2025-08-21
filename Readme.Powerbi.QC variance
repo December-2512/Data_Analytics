@@ -1,0 +1,20 @@
+QC Variance 
+
+This Dashboard provides a comprehensive analysis of Quality Control
+performance across various customers and locations.
+It highlights key metrics like Total QC, Delivered units, Backlog errors.
+
+Analytical View
+
+- Calculation on Total QC, Total Delivered and Backlog 
+- QC vs Delivered - Comparative analysis 
+- Delivered vs Backlog - Identifies error rates and delivery efficiency 
+- Date wise Analysis - Daily trend - Delivery, QC and Backlog 
+- Decomposition Tree - Drill down into performance by manager, process and customer.
+
+Insights 
+- Some process like media invoice and digital invoice show high delivery volumes 
+- Backlog errors are concentrated in specific process and managers
+- Daily delivery trends reveal peak and low performance days
+- Geographic clustering of customers suggests regional optimization opportunities.
+
